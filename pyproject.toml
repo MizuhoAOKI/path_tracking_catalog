@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "path-tracking"
+version = "0.1.0"
+description = ""
+authors = ["MizuhoAOKI <mizuhoaoki1998@gmail.com>"]
+readme = "README.md"
+packages = [{include = "path_tracking"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+matplotlib = "^3.8.0"
+numpy = "^1.26.0"
+notebook = "^7.0.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
