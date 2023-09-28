@@ -4,7 +4,7 @@ Several path-tracking algorithms are (going to be) implemented with python.
 
 ## Vehicle Models for Simulation
 ### Dynamic Bicycle Model
-<div><video controls src="./media/dbm_demo.mp4" width="320px" muted="false"></video></div>
+<div><video controls src="https://github-production-user-asset-6210df.s3.amazonaws.com/63337525/271293451-d51c3821-9b35-4e91-8235-e63b18f33f03.mp4" width="320px" muted="false"></video></div>
 
 ```sh
 cd path_tracking
