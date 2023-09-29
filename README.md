@@ -38,6 +38,9 @@ poetry run jupyter notebook notebooks/kinematic_bicycle_model.ipynb
 ### Stanley Control
 
 
+### Dynamic Window Approach
+
+
 ### State Feedback Control
 
 
@@ -51,3 +54,4 @@ poetry run jupyter notebook notebooks/kinematic_bicycle_model.ipynb
 
 
 ### Sliding Mode Control
+
