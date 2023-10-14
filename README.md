@@ -55,3 +55,6 @@ poetry run jupyter notebook notebooks/kinematic_bicycle_model.ipynb
 
 ### Sliding Mode Control
 
+
+### Q-Learning
+
