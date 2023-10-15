@@ -9,7 +9,7 @@ Several path-tracking algorithms are (going to be) implemented with python.
 
 ### Dynamic Bicycle Model
 
-$$
+```math
 \begin{align}
 &\frac{\mathrm{d}}{\mathrm{d}t}
 \begin{bmatrix}
@@ -33,7 +33,7 @@ v^B_x \sin\phi + v^B_y \cos\phi \\
 & F_{r}^{\rm{lat}} = - C_r \left( \frac{v^B_y - l_r \omega}{v^B_x} \right), \\ \\
 & \beta = \tan^{-1} \left( \frac{v^B_y}{v^B_x} \right) \approx \frac{v^B_y}{v^B_x} \ \ \  (\because v^B_y \ll v^B_x ).
 \end{align}
-$$
+```
 
 <img src="./media/DBM.svg" width="500px" alt="DBM" />
 
@@ -46,7 +46,7 @@ poetry run jupyter notebook notebooks/dynamic_bicycle_model.ipynb
 
 ### Kinematic Bicycle Model
 
-$$
+```math
 \begin{align}
 & \frac{\mathrm{d}}{\mathrm{d}t}
 \begin{bmatrix}
@@ -64,7 +64,7 @@ V \sin(\phi + \beta) \\
 \end{bmatrix},\\ \\
 & \beta = \tan^{-1} \left( \frac{l_r}{l_f + l_r} \tan(\bm{\delta}) \right).
 \end{align}
-$$
+```
 
 <img src="./media/KBM.svg" width="500px" alt="KBM" />
 
@@ -77,7 +77,7 @@ poetry run jupyter notebook notebooks/kinematic_bicycle_model.ipynb
 
 ### Unicycle Model
 
-$$
+```math
 \begin{align}
 \frac{\mathrm{d}}{\mathrm{d}t}
 \begin{bmatrix}
@@ -94,7 +94,7 @@ V \sin\phi \\
 \bm{a}
 \end{bmatrix}.
 \end{align}
-$$
+```
 
 <img src="./media/UM.svg" width="500px" alt="UM" />
 
