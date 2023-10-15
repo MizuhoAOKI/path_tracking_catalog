@@ -34,8 +34,9 @@ v^B_x \sin\phi + v^B_y \cos\phi \\
 & \beta = \tan^{-1} \left( \frac{v^B_y}{v^B_x} \right) \approx \frac{v^B_y}{v^B_x} \ \ \  (\because v^B_y \ll v^B_x ).
 \end{align}
 ```
-
+<p align="center">
 <img src="./media/DBM.svg" width="500px" alt="DBM" />
+</p>
 
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/d51c3821-9b35-4e91-8235-e63b18f33f03
 
@@ -66,7 +67,9 @@ V \sin(\phi + \beta) \\
 \end{align}
 ```
 
+<p align="center">
 <img src="./media/KBM.svg" width="500px" alt="KBM" />
+</p>
 
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/b85fe31c-3e4a-47a9-bc54-694cde225bd5
 
@@ -96,7 +99,9 @@ V \sin\phi \\
 \end{align}
 ```
 
+<p align="center">
 <img src="./media/UM.svg" width="500px" alt="UM" />
+</p>
 
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/8cba0010-6a21-4830-8974-b4b57c166bcf
 
