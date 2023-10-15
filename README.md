@@ -25,11 +25,11 @@ v^B_y \\
 v^B_x \cos\phi - v^B_y \sin\phi \\
 v^B_x \sin\phi + v^B_y \cos\phi \\
 \omega \\
-\bm{a}\cos\beta - (F_{f}^{\rm{lat}}\sin {\bm{\delta}})/m + v^B_y \omega \\
-\bm{a}\sin\beta + F_{r}^{\rm{lat}}/m + F_{f}^{\rm{lat}} \cos\bm{\delta}/m - v^B_x \omega \\
-(F_{f}^{\rm{lat}}l_f\cos\bm{\delta} - F_{r}^{\rm{lat}}l_r)/I_z\
+{a}\cos\beta - (F_{f}^{\rm{lat}}\sin {{\delta}})/m + v^B_y \omega \\
+{a}\sin\beta + F_{r}^{\rm{lat}}/m + F_{f}^{\rm{lat}} \cos{\delta}/m - v^B_x \omega \\
+(F_{f}^{\rm{lat}}l_f\cos{\delta} - F_{r}^{\rm{lat}}l_r)/I_z\
 \end{bmatrix}, \\ \\
-& F_{f}^{\rm{lat}} = - C_f \left( \frac{v^B_y + l_f \omega}{v^B_x} - \bm{\delta} \right), \\ \\
+& F_{f}^{\rm{lat}} = - C_f \left( \frac{v^B_y + l_f \omega}{v^B_x} - {\delta} \right), \\ \\
 & F_{r}^{\rm{lat}} = - C_r \left( \frac{v^B_y - l_r \omega}{v^B_x} \right), \\ \\
 & \beta = \tan^{-1} \left( \frac{v^B_y}{v^B_x} \right) \approx \frac{v^B_y}{v^B_x} \ \ \  (\because v^B_y \ll v^B_x ).
 \end{align}
@@ -60,9 +60,9 @@ V
 V \cos(\phi + \beta) \\
 V \sin(\phi + \beta) \\
 (V/l_r)  \sin\beta \\
-\bm{a}
+{a}
 \end{bmatrix},\\ \\
-& \beta = \tan^{-1} \left( \frac{l_r}{l_f + l_r} \tan(\bm{\delta}) \right).
+& \beta = \tan^{-1} \left( \frac{l_r}{l_f + l_r} \tan({\delta}) \right).
 \end{align}
 ```
 
@@ -90,8 +90,8 @@ V
 \begin{bmatrix}
 V \cos\phi \\
 V \sin\phi \\
-( V / l ) \tan\bm{\delta} \\
-\bm{a}
+( V / l ) \tan{\delta} \\
+{a}
 \end{bmatrix}.
 \end{align}
 ```
