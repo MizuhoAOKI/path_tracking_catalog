@@ -111,6 +111,13 @@ poetry run jupyter notebook notebooks/unicycle_model.ipynb
 ```
 
 ## Control Algorithms
+### Bang-Bang Control
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/bangbang.ipynb
+```
+
 ### PID Control
 
 
