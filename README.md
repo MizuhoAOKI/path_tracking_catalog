@@ -113,6 +113,8 @@ poetry run jupyter notebook notebooks/unicycle_model.ipynb
 ## Control Algorithms
 ### Bang-Bang Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/cc88214e-3914-4126-ac57-3f63d8397094
+
 ```sh
 cd path_tracking
 poetry run jupyter notebook notebooks/bangbang.ipynb
