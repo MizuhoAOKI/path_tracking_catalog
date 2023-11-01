@@ -1,5 +1,5 @@
 # Path Tracking
-Several path-tracking algorithms are (going to be) implemented with python.
+Several path-tracking algorithms are implemented with python.
 
 - [x] [Bang-Bang Control](#bang-bang-control)
 - [x] [PID Control](#pid-control)
