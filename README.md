@@ -1,6 +1,17 @@
 # Path Tracking
 Several path-tracking algorithms are (going to be) implemented with python.
 
+- [x] [Bang-Bang Control](#bang-bang-control)
+- [x] [PID Control](#pid-control)
+- [x] [Pure Pursuit Control](#pure-pursuit-control)
+- [x] [Stanley Control](#stanley-control)
+- [ ] Dynamic Window Approach
+- [ ] State Feedback Control
+- [ ] Linear Quadratic Regulator
+- [ ] Model Predictive Control
+- [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
+- [ ] Sliding Mode Control
+- [ ] Q-Learning
 
 ## Vehicle Models for Simulation
 
@@ -161,6 +172,10 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 
 ### Model Predictive Path-Integral Control
 
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/mppi.ipynb
+```
 
 ### Sliding Mode Control
 
