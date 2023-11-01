@@ -122,6 +122,12 @@ poetry run jupyter notebook notebooks/bangbang.ipynb
 
 ### PID Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/83e813d9-b611-49da-abe2-45333bfb80d2
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/pid.ipynb
+```
 
 ### Pure-Pursuit Control
 
