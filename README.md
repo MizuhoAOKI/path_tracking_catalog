@@ -131,9 +131,21 @@ poetry run jupyter notebook notebooks/pid.ipynb
 
 ### Pure-Pursuit Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/a23f8437-d695-4848-83fb-a8424f311683
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/purepursuit.ipynb
+```
 
 ### Stanley Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/43f3ce4f-8181-45ad-bc08-ac96f3a91e2b
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/stanley.ipynb
+```
 
 ### Dynamic Window Approach
 
