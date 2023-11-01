@@ -1,24 +1,22 @@
 # Path Tracking
 Several path-tracking algorithms are implemented with python.
 
-- [Path Tracking](#path-tracking)
-  - [Vehicle Models for Simulation](#vehicle-models-for-simulation)
-    - [Definition of Coordinate Systems](#definition-of-coordinate-systems)
-    - [Dynamic Bicycle Model](#dynamic-bicycle-model)
-    - [Kinematic Bicycle Model](#kinematic-bicycle-model)
-    - [Unicycle Model](#unicycle-model)
-  - [Control Algorithms](#control-algorithms)
-    - [Bang-Bang Control](#bang-bang-control)
-    - [PID Control](#pid-control)
-    - [Pure-Pursuit Control](#pure-pursuit-control)
-    - [Stanley Control](#stanley-control)
-    - [Dynamic Window Approach](#dynamic-window-approach)
-    - [State Feedback Control](#state-feedback-control)
-    - [Linear Quadratic Regulator](#linear-quadratic-regulator)
-    - [Model Predictive Control](#model-predictive-control)
-    - [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
-    - [Sliding Mode Control](#sliding-mode-control)
-    - [Q-Learning](#q-learning)
+- [Vehicle Models for Simulation](#vehicle-models-for-simulation)
+  - [x] [Dynamic Bicycle Model](#dynamic-bicycle-model)
+  - [x] [Kinematic Bicycle Model](#kinematic-bicycle-model)
+  - [x] [Unicycle Model](#unicycle-model)
+- [Control Algorithms](#control-algorithms)
+  - [x] [Bang-Bang Control](#bang-bang-control)
+  - [x] [PID Control](#pid-control)
+  - [x] [Pure Pursuit Control](#pure-pursuit-control)
+  - [x] [Stanley Control](#stanley-control)
+  - [ ] Dynamic Window Approach
+  - [ ] State Feedback Control
+  - [ ] Linear Quadratic Regulator
+  - [ ] Model Predictive Control
+  - [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
+  - [ ] Sliding Mode Control
+  - [ ] Q-Learning
 
 ## Vehicle Models for Simulation
 
