@@ -172,6 +172,8 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 
 ### Model Predictive Path-Integral Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/7752406f-9e0b-473a-bbaa-8e0fe2aa689a
+
 ```sh
 cd path_tracking
 poetry run jupyter notebook notebooks/mppi.ipynb
