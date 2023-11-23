@@ -11,6 +11,7 @@ Several path-tracking algorithms are implemented with python.
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
   - [ ] Dynamic Window Approach
+  - [ ] State Lattice Planner
   - [ ] State Feedback Control
   - [ ] Linear Quadratic Regulator
   - [ ] Model Predictive Control
@@ -164,6 +165,9 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 ```
 
 ### Dynamic Window Approach
+
+
+### State Lattice Planner
 
 
 ### State Feedback Control
