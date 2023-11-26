@@ -19,8 +19,9 @@ Several path-tracking algorithms are implemented with python.
   - [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
   - [ ] Sliding Mode Control
   - [ ] Q-Learning
+  - [ ] Multi Layer Perceptron
   - [ ] Linear Quadratic Gaussian
-  - [ ] H∞ Control
+  - [ ] H∞ Control (LMI)
   - [ ] Lyapunov
   - [ ] Adaptive Control
 
