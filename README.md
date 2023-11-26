@@ -10,6 +10,7 @@ Several path-tracking algorithms are implemented with python.
   - [x] [PID Control](#pid-control)
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
+  - [ ] Fuzzy Logic Control
   - [ ] Dynamic Window Approach
   - [ ] State Lattice Planner
   - [ ] State Feedback Control
