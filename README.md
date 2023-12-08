@@ -13,8 +13,8 @@ Several path-tracking algorithms are implemented with python.
   - [ ] Fuzzy Logic Control
   - [ ] Dynamic Window Approach
   - [ ] State Lattice Planner
-  - [ ] State Feedback Control
-  - [ ] Linear Quadratic Regulator
+  - [x] [State Feedback Control](#state-feedback-control)
+  - [x] [Linear Quadratic Regulator](#linear-quadratic-regulator)
   - [ ] Model Predictive Control
   - [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
   - [ ] Sliding Mode Control
@@ -178,9 +178,21 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 
 ### State Feedback Control
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/8e48380b-f840-49cc-91e0-07dad356b5be
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/state_feedback.ipynb
+```
 
 ### Linear Quadratic Regulator
 
+https://github.com/MizuhoAOKI/path_tracking/assets/63337525/13d6abbc-2904-422d-acba-17ede074a181
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/lqr.ipynb
+```
 
 ### Model Predictive Control
 
