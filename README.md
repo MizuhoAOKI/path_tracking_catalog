@@ -10,13 +10,20 @@ Several path-tracking algorithms are implemented with python.
   - [x] [PID Control](#pid-control)
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
+  - [ ] Fuzzy Logic Control
   - [ ] Dynamic Window Approach
+  - [ ] State Lattice Planner
   - [ ] State Feedback Control
   - [ ] Linear Quadratic Regulator
   - [ ] Model Predictive Control
   - [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
   - [ ] Sliding Mode Control
   - [ ] Q-Learning
+  - [ ] Multi Layer Perceptron
+  - [ ] Linear Quadratic Gaussian
+  - [ ] H∞ Control (LMI)
+  - [ ] Lyapunov
+  - [ ] Adaptive Control
 
 ## Vehicle Models for Simulation
 
@@ -164,6 +171,9 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 ```
 
 ### Dynamic Window Approach
+
+
+### State Lattice Planner
 
 
 ### State Feedback Control
