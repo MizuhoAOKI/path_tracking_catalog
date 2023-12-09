@@ -1,4 +1,4 @@
-# Path Tracking
+# Path Tracking Catalog
 25 path-tracking algorithms are (goint to be) implemented with python.
 
 - [Vehicle Models for Simulation](#vehicle-models-for-simulation)
