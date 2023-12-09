@@ -1,5 +1,5 @@
 # Path Tracking
-Several path-tracking algorithms are implemented with python.
+25 path-tracking algorithms are (goint to be) implemented with python.
 
 - [Vehicle Models for Simulation](#vehicle-models-for-simulation)
   - [x] [Dynamic Bicycle Model](#dynamic-bicycle-model)
@@ -11,11 +11,18 @@ Several path-tracking algorithms are implemented with python.
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
   - [ ] Fuzzy Logic Control
+  - [ ] Genetic Algotirhm
   - [ ] Dynamic Window Approach
   - [ ] State Lattice Planner
   - [x] [State Feedback Control](#state-feedback-control)
-  - [x] [Linear Quadratic Regulator](#linear-quadratic-regulator)
-  - [ ] Model Predictive Control
+  - [x] [Linear Quadratic Regulator (infinite horizon)](#linear-quadratic-regulator)
+  - [ ] Linear Quadratic Regulator (finite horizon)
+  - [ ] Differential Dynamic Programming (infinite horizon)
+  - [ ] Differential Dynamic Programming (finite horizon)
+  - [ ] Iterative LQR (infinite horizon)
+  - [ ] Iterative LQR (finite horizon)
+  - [ ] Linear Model Predictive Control (formulated as Quadratic Programming)
+  - [ ] Nonlinear Model Predictive Control (solved by C/GMRES method)
   - [x] [Model Predictive Path-Integral Control](#model-predictive-path-integral-control)
   - [ ] Sliding Mode Control
   - [ ] Q-Learning
