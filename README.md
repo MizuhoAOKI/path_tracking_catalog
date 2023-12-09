@@ -11,7 +11,7 @@
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
   - [ ] Fuzzy Logic Control
-  - [ ] Genetic Algotirhm
+  - [ ] Genetic Algorithm
   - [ ] Dynamic Window Approach
   - [ ] State Lattice Planner
   - [x] [State Feedback Control](#state-feedback-control)
