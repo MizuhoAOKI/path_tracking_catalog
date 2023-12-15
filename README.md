@@ -13,7 +13,7 @@
   - [x] [PID Control](#pid-control)
   - [x] [Pure Pursuit Control](#pure-pursuit-control)
   - [x] [Stanley Control](#stanley-control)
-  - [ ] Fuzzy Logic Control
+  - [x] [Fuzzy Logic Control](#fuzzy-logic-control)
   - [ ] Genetic Algorithm
   - [ ] Dynamic Window Approach
   - [ ] State Lattice Planner
@@ -178,6 +178,15 @@ https://github.com/MizuhoAOKI/path_tracking/assets/63337525/43f3ce4f-8181-45ad-b
 ```sh
 cd path_tracking
 poetry run jupyter notebook notebooks/stanley.ipynb
+```
+
+### Fuzzy Logic Control
+
+https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/d8f9f256-4b2c-4b9e-8b57-e33f05e59e6f
+
+```sh
+cd path_tracking
+poetry run jupyter notebook notebooks/fuzzy.ipynb
 ```
 
 ### Dynamic Window Approach
