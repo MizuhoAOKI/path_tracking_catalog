@@ -225,11 +225,11 @@ poetry run jupyter notebook notebooks/lqr.ipynb
 
 ### Model Predictive Path-Integral Control
 
-https://github.com/MizuhoAOKI/path_tracking/assets/63337525/7752406f-9e0b-473a-bbaa-8e0fe2aa689a
+https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/acfefe3a-a22a-4cbc-a5c8-a83086943684
 
 ```sh
 cd path_tracking_catalog
-poetry run jupyter notebook notebooks/mppi.ipynb
+poetry run jupyter notebook notebooks/mppi_pathtracking.ipynb
 ```
 
 ### Sliding Mode Control
