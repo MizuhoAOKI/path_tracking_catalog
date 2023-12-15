@@ -35,6 +35,13 @@
   - [ ] Lyapunov
   - [ ] Adaptive Control
 
+## Setup
+```sh
+git clone https://github.com/MizuhoAOKI/path_tracking_catalog.git
+cd path_tracking_catalog
+poetry install
+```
+
 ## Vehicle Models for Simulation
 
 ### Definition of Coordinate Systems
@@ -74,7 +81,7 @@ v^B_x \sin\phi + v^B_y \cos\phi \\
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/d51c3821-9b35-4e91-8235-e63b18f33f03
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/dynamic_bicycle_model.ipynb
 ```
 
@@ -107,7 +114,7 @@ V \sin(\phi + \beta) \\
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/b85fe31c-3e4a-47a9-bc54-694cde225bd5
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/kinematic_bicycle_model.ipynb
 ```
 
@@ -139,7 +146,7 @@ V \sin\phi \\
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/8cba0010-6a21-4830-8974-b4b57c166bcf
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/unicycle_model.ipynb
 ```
 
@@ -149,7 +156,7 @@ poetry run jupyter notebook notebooks/unicycle_model.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/cc88214e-3914-4126-ac57-3f63d8397094
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/bangbang.ipynb
 ```
 
@@ -158,7 +165,7 @@ poetry run jupyter notebook notebooks/bangbang.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/83e813d9-b611-49da-abe2-45333bfb80d2
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/pid.ipynb
 ```
 
@@ -167,7 +174,7 @@ poetry run jupyter notebook notebooks/pid.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/a23f8437-d695-4848-83fb-a8424f311683
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/purepursuit.ipynb
 ```
 
@@ -176,7 +183,7 @@ poetry run jupyter notebook notebooks/purepursuit.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/43f3ce4f-8181-45ad-bc08-ac96f3a91e2b
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/stanley.ipynb
 ```
 
@@ -185,7 +192,7 @@ poetry run jupyter notebook notebooks/stanley.ipynb
 https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/d8f9f256-4b2c-4b9e-8b57-e33f05e59e6f
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/fuzzy.ipynb
 ```
 
@@ -200,7 +207,7 @@ poetry run jupyter notebook notebooks/fuzzy.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/8e48380b-f840-49cc-91e0-07dad356b5be
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/state_feedback.ipynb
 ```
 
@@ -209,7 +216,7 @@ poetry run jupyter notebook notebooks/state_feedback.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/13d6abbc-2904-422d-acba-17ede074a181
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/lqr.ipynb
 ```
 
@@ -221,7 +228,7 @@ poetry run jupyter notebook notebooks/lqr.ipynb
 https://github.com/MizuhoAOKI/path_tracking/assets/63337525/7752406f-9e0b-473a-bbaa-8e0fe2aa689a
 
 ```sh
-cd path_tracking
+cd path_tracking_catalog
 poetry run jupyter notebook notebooks/mppi.ipynb
 ```
 
