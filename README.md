@@ -198,6 +198,8 @@ poetry run jupyter notebook notebooks/fuzzy.ipynb
 
 ### Dynamic Window Approach
 
+https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/23078e50-46a5-48eb-b89b-4a2111b320f0
+
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/dwa_pathtracking.ipynb
