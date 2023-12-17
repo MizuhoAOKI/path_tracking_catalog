@@ -15,7 +15,7 @@
   - [x] [Stanley Control](#stanley-control)
   - [x] [Fuzzy Logic Control](#fuzzy-logic-control)
   - [ ] Genetic Algorithm
-  - [ ] Dynamic Window Approach
+  - [x] [Dynamic Window Approach](#dynamic-window-approach)
   - [ ] State Lattice Planner
   - [x] [State Feedback Control](#state-feedback-control)
   - [x] [Linear Quadratic Regulator (infinite horizon)](#linear-quadratic-regulator)
@@ -198,6 +198,10 @@ poetry run jupyter notebook notebooks/fuzzy.ipynb
 
 ### Dynamic Window Approach
 
+```sh
+cd path_tracking_catalog
+poetry run jupyter notebook notebooks/dwa_pathtracking.ipynb
+```
 
 ### State Lattice Planner
 
