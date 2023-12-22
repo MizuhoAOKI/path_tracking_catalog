@@ -201,15 +201,19 @@ poetry run jupyter notebook notebooks/fuzzy.ipynb
 
 ### Dynamic Window Approach
 
+#### Simple Path Tracking
+
 https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/23078e50-46a5-48eb-b89b-4a2111b320f0
 
-#### Simple Path Tracking
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/dwa_pathtracking.ipynb
 ```
 
 #### Path Tracking with Obstacle Avoidance
+
+https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/7b2a80b7-8d3e-4d37-89f4-23337efcb937
+
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/dwa_obstacle_avoidance.ipynb
@@ -241,15 +245,19 @@ poetry run jupyter notebook notebooks/lqr.ipynb
 
 ### Model Predictive Path-Integral Control
 
+#### Simple Path Tracking
+
 https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/acfefe3a-a22a-4cbc-a5c8-a83086943684
 
-#### Simple Path Tracking
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/mppi_pathtracking.ipynb
 ```
 
 #### Path Tracking with Obstacle Avoidance
+
+https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/fe84eaf6-8795-490d-9ef1-efecc427052e
+
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/mppi_obstacle_avoidance.ipynb
