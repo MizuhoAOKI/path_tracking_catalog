@@ -236,9 +236,16 @@ poetry run jupyter notebook notebooks/lqr.ipynb
 
 https://github.com/MizuhoAOKI/path_tracking_catalog/assets/63337525/acfefe3a-a22a-4cbc-a5c8-a83086943684
 
+#### Simple Path Tracking
 ```sh
 cd path_tracking_catalog
 poetry run jupyter notebook notebooks/mppi_pathtracking.ipynb
+```
+
+#### Path Tracking with Obstacle Avoidance
+```sh
+cd path_tracking_catalog
+poetry run jupyter notebook notebooks/mppi_obstacle_avoidance.ipynb
 ```
 
 ### Sliding Mode Control
